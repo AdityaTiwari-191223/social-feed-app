@@ -1,12 +1,45 @@
-# React + Vite
+# 📸 Social Feed App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive, React-based social media feed application built with Tailwind CSS — featuring real-time like buttons, dark mode, sorting, and search functionality.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> [Coming Soon - Deployed Link Here]  
+(*Want help deploying this? Just ask!*)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧠 Features
+
+- 💬 Instagram-style post cards
+- ❤️ Like button with live counter
+- 🔄 Sort by "Latest" or "Most Liked"
+- 🌙 Toggle between Dark & Light mode
+- 🔍 Real-time post filtering by caption or username
+- 📱 Fully responsive for mobile and desktop
+
+---
+
+## 🔧 Tech Stack
+
+| Tech | Description |
+|------|-------------|
+| React | Frontend framework |
+| Tailwind CSS | Utility-first CSS framework |
+| Vite | Build tool for fast dev server |
+| GitHub | Version control and project hosting |
+
+---
+
+## 📁 Folder Structure
+
+social-feed-app/
+├── public/
+│ └── index.html
+├── src/
+│ ├── App.jsx
+│ └── main.jsx
+├── .gitignore
+├── package.json
+├── tailwind.config.js
+└── README.md
