@@ -5,7 +5,7 @@ A responsive, React-based social media feed application built with Tailwind CSS 
 ## 🚀 Live Demo
 
 > [Coming Soon - Deployed Link Here]  
-(*Want help deploying this? Just ask!*)
+
 
 ---
 
